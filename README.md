@@ -1,14 +1,13 @@
 # AC-Case-DeliveryService-Analysis
 Case Study: "BistroBuddy" – Data Analytics for a Vienna-based Meal Delivery Service
-# BistroBuddy Case Study
 
 ## Overview
 
-Welcome to the *BistroBuddy* case study! In this project, you are a team of freelance data analysts tasked with analyzing sales and customer data for *BistroBuddy*, a meal delivery service popular among students in Vienna. The aim is to understand customer behavior, identify patterns, and make data-driven recommendations to increase revenue and optimize service offerings.
+In this project, you are a team of freelance data analysts tasked with analysing sales and customer data for *BistroBuddy*, a meal delivery service popular among students in Vienna. The aim is to understand customer behavior, identify patterns, and make data-driven recommendations to increase revenue and optimise service offerings.
 
 ## Objective
 
-*BistroBuddy* wants insights into their sales data to answer key business questions and guide their strategic decisions. You will analyze their meal categories, delivery locations, customer purchasing behavior, and revenue trends to provide actionable recommendations. The focus is on improving their appeal to student customers in Vienna.
+*BistroBuddy* wants insights into their sales data to answer key business questions and guide their strategic decisions. You will analyse their meal categories, delivery locations, customer purchasing behavior, and revenue trends to provide actionable recommendations. The focus is on improving their appeal to student customers in Vienna.
 
 ## Key Questions
 
@@ -38,20 +37,20 @@ Welcome to the *BistroBuddy* case study! In this project, you are a team of free
 
 ## Expected Output
 
-Your analysis should culminate in a 10-minute presentation that summarizes the key findings and provides clear, data-backed recommendations. The presentation will be addressed to *BistroBuddy*'s management, focusing on actionable steps to enhance their service for student customers in Vienna.
+Your analysis should culminate in a 10-minute presentation that summarises the key findings and provides clear, data-backed recommendations. The presentation will be addressed to *BistroBuddy*'s management, focusing on actionable steps to enhance their service for student customers in Vienna.
 
 ## Tools and Skills Required
 - Data cleaning and processing
 - Exploratory data analysis (EDA)
-- Visualization of trends and insights
+- Visualisation of trends and insights
 - Time series analysis
 - Customer segmentation
 - Revenue analysis
 
 ## Deliverables
 - A concise presentation (up to 10 minutes)
-- Visualizations and data insights that answer the key questions
-- Actionable recommendations for increasing revenue and optimizing the service
+- Visualisations and data insights that answer the key questions
+- Actionable recommendations for increasing revenue and optimising the service
 
 ## License
 
